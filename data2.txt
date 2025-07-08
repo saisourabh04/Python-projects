@@ -1,0 +1,4 @@
+France 24 72000 No
+Spain 24 48000 Yes
+Germany 23 54000 No
+Spain 24 52000 No
